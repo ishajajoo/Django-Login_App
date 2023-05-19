@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+    /* <a href="https://storyset.com/people">People illustrations by Storyset</a> */
+}
+h1{
+    text-align: center;
+}
+div{
+    margin-left: 0cm;
+    margin-top: auto;
+    width: 20%;
+    display: block;
+
+}.center{
+    margin-left: auto;
+    margin-top: auto;
+    width: 50%;
+    text-align: center;
+}
